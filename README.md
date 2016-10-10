@@ -12,5 +12,5 @@ It also displays the absolute path to the file.
 
 ## Usage
 
-Simply clone the repo or copy indexboth PHP files (index.php and Laracheck.class.php) anywhere on your server, in a web-accessible directory, such as /public.
+Simply clone the repo or copy both PHP files (index.php and Laracheck.class.php) anywhere on your server, in a web-accessible directory, such as /public.
 Access the file with a browser. That's all.
